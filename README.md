@@ -14,6 +14,6 @@
 
 ### Assignment 4:
 
-[Linear Regression](https://github.com/Segneur/MachineLearningPortfolio/blob/main/naiveBayes.cpp) \
+[Logistic Regression](https://github.com/Segneur/MachineLearningPortfolio/blob/main/naiveBayes.cpp) \
 [Naive Bayes](https://github.com/Segneur/MachineLearningPortfolio/blob/main/naiveBayes.cpp) \
 [Report](https://github.com/Segneur/MachineLearningPortfolio/files/10889781/fromScratch.pdf)
